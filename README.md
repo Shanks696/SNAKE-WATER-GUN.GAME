@@ -1,1 +1,2 @@
 # SNAKE-WATER-GUN.GAME
+"Snake Water Gun" is a straightforward and timeless game that frequently provides novices with an enjoyable introduction to programming. In this game, the player selects from three alternatives to compete against the computer: water, gun, or snake. The rules are simple: gun beats snake, water beats gun, and snake beats gun.  The Python programming language is used to build the game, which makes use of fundamental like variables, conditionals, loops, and functions.
